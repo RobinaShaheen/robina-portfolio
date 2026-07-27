@@ -58,7 +58,7 @@ export const otherProjects = [
 
     github: "https://github.com/RobinaShaheen/robina-portfolio",
 
-    demo: "",
+    demo: "https://robina-portfolio.vercel.app/",
   },
 
   {

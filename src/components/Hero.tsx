@@ -258,7 +258,7 @@ export default function Hero() {
               <div className="w-full h-full rounded-full overflow-hidden bg-slate-900">
 
                 <Image
-                  src="/profile.jpg"
+                  src="/profile.png"
                   alt="Robina Shaheen"
                   width={380}
                   height={380}
