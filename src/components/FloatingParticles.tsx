@@ -64,14 +64,7 @@ export default function FloatingParticles() {
     <div className="absolute bottom-0 right-0 -z-10 w-125 h-125 rounded-full bg-blue-500/10 blur-[120px]" />
 
     <div className="absolute top-1/2 left-1/2 -z-10 w-87.5 h-87.5 -translate-x-1/2 -translate-y-1/2 rounded-full bg-indigo-500/10 blur-[100px]" />  
-      {/* Top Glow */}
-      {/* <div className="absolute -top-40 left-0 w-112.5 h-112.5 rounded-full bg-cyan-500/10 blur-[120px]" /> */}
-
-      {/* Bottom Glow */}
-      {/* <div className="absolute bottom-0 right-0 w-125 h-125 rounded-full bg-blue-500/10 blur-[120px]" /> */}
-
-      {/* Center Glow */}
-      {/* <div className="absolute top-1/2 left-1/2 w-87.5 h-87.5 -translate-x-1/2 -translate-y-1/2 rounded-full bg-indigo-500/10 blur-[100px]" /> */}
+      
     </div>
   );
 }
