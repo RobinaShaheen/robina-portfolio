@@ -56,7 +56,7 @@ export const otherProjects = [
       "Framer Motion",
     ],
 
-    github: "https://github.com/yourusername/portfolio",
+    github: "https://github.com/RobinaShaheen/robina-portfolio",
 
     demo: "",
   },
