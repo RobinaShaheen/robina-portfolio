@@ -169,7 +169,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume/Robina-Shaheen-Resume.pdf"
+              href="/resume/Robina_Shaheen_Frontend_Engineer_Resume.pdf"
               download
               className="
               px-8
